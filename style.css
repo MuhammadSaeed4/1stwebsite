@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+    margin: 0cqb;
+}
+#name{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    color: white;
+}
+#AD1{
+    color: red;
+    letter-spacing: 6px;
+  
+}
+h1{
+    color: white;
+    margin: 0cqb;
+}
+#images{
+    display: inline-block;
+}
